@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name=".gitignore" server="files.000webhost.com" local="131491253094955192" remote="131414989800000000" Dst="2" />
+<file name=".scrutinizer.yml" server="files.000webhost.com" local="131491253097254958" remote="131414989800000000" Dst="2" />
+<file name=".travis.yml" server="files.000webhost.com" local="131491253097384977" remote="131414989800000000" Dst="2" />
+<file name="PHPMailerAutoload.php" server="files.000webhost.com" local="131491253100284015" remote="131414989800000000" Dst="2" />
+<file name="LICENSE" server="files.000webhost.com" local="131491253100534036" remote="131414989800000000" Dst="2" />
+<file name=".DS_Store" server="files.000webhost.com" local="131491253100844049" remote="131414989800000000" Dst="2" />
+<file name="VERSION" server="files.000webhost.com" local="131491253102925597" remote="131414989800000000" Dst="2" />
+<file name="README.md" server="files.000webhost.com" local="131491253103775651" remote="131414989800000000" Dst="2" />
+<file name="changelog.md" server="files.000webhost.com" local="131491253104044766" remote="131414989800000000" Dst="2" />
+<file name="class.phpmaileroauth.php" server="files.000webhost.com" local="131491253106967098" remote="131414989800000000" Dst="2" />
+<file name="class.phpmaileroauthgoogle.php" server="files.000webhost.com" local="131491253107307189" remote="131414989800000000" Dst="2" />
+<file name="class.phpmailer.php" server="files.000webhost.com" local="131491253108609326" remote="131414989800000000" Dst="2" />
+<file name="class.pop3.php" server="files.000webhost.com" local="131491253110321238" remote="131414989800000000" Dst="2" />
+<file name="class.smtp.php" server="files.000webhost.com" local="131491253113033053" remote="131414989800000000" Dst="2" />
+<file name="composer.lock" server="files.000webhost.com" local="131491253115150260" remote="131414989800000000" Dst="2" />
+<file name="get_oauth_token.php" server="files.000webhost.com" local="131491253122220342" remote="131414989800000000" Dst="2" />
+<file name="composer.json" server="files.000webhost.com" local="131491253137691828" remote="131414989800000000" Dst="2" />
+<file name="travis.phpunit.xml.dist" server="files.000webhost.com" local="131491253172280895" remote="131414989800000000" Dst="2" />
+</dwsync>
